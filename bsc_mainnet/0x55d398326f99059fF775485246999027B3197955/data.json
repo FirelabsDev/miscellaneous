@@ -1,0 +1,4 @@
+{
+    "name": "NIMB Staking Compound",
+    "description": "<p className=\"py-2 font-semibold\"> Staking compound is a Firelabs strategy that uses the NIMB soft staking developed by Nimbus Platform of a 5% APY. Using a common shares where all the users can participate on, we compound the benefits weekly within the same DeFi product. When you deposit your NIMB through this strategy, we will give you back in return shares tokens (called from now on SHA tokens). SHA tokens are the representation of your participation within the pool. If the pool obtains benefits, in this particular case we are talking about a staking so there will always be benefits, your participations value will increase (the same would happen in different direction if the results are negative). NIMB logo </p> <p className=\"py-2 font-semibold\"> Take into account that this strategy will stop whenever the company Nimbus platform stops providing liquidity to the staking </p>"
+}
